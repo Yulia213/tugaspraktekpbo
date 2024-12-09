@@ -1,0 +1,20 @@
+[
+    {
+        "id": "6756a5c0991c5",
+        "nama": "album aespa Armagedon",
+        "harga": "250.000",
+        "stok": "100"
+    },
+    {
+        "id": "6756a5e7973a5",
+        "nama": "album straykids Maniac",
+        "harga": "175.000",
+        "stok": "175"
+    },
+    {
+        "id": "6756a60bf3778",
+        "nama": "album nct dream when i'm with you",
+        "harga": "275.000",
+        "stok": "355"
+    }
+]
